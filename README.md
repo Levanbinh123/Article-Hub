@@ -28,7 +28,7 @@
 ├── pom.xml                # File cấu hình Maven
 └── README.md              # File này
 ## Tải dự án
-git clone https://github.com/Levanbinh123/social_media.git
+https://github.com/Levanbinh123/Article-Hub.git
 cd social_media
 ## cấu hình database
 Tạo database tên: Article_Hub_Project
